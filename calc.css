@@ -1,0 +1,18 @@
+.first{
+    height:100vh;
+    width:100vw;
+    background-color:rosybrown;
+    position: relative;
+}
+.second{
+    height:50px;
+    width:40px;
+    background-color: blanchedalmond;
+    color:black;
+    font-weight: bold;
+    font-size: 40px;
+    position:absolute;
+    left:90%;
+    right:10%;
+    top:calc(calc(100% - 50px) / 2);
+}
